@@ -1,4 +1,5 @@
 # IPD_Strategy_ML
+<<<<<<< HEAD
 This project focuses on designing a new strategy for the Iterated Prisoner’s Dilemma using machine learning and behavioural analysis. Behavioural patterns from existing strategies are analyzed to identify features that lead to high long-term payoffs.
 
 
@@ -7,6 +8,15 @@ The Iterated Prisoner’s Dilemma (IPD) is a fundamental problem in game theory 
 In each round, agents independently choose between cooperation and defection, and receive rewards based on a predefined payoff matrix.  
 While short-term selfish behavior may yield immediate gains, long-term interactions require strategies that balance cooperation, retaliation, and forgiveness.
 This project aims to design a new IPD strategy by leveraging machine learning techniques to analyze behavioral patterns of existing strategies and identify factors that lead to high long-term payoffs.
+=======
+This project focuses on designing a new strategy for the Iterated Prisoner’s Dilemma using machine learning and behavioral analysis.
+Behavioral patterns from existing strategies are analyzed to identify features that lead to high long-term payoffs.
+
+
+## 💫 Project Overview
+This project focuses on designing a new optimized strategy for the Iterated Prisoner’s Dilemma (IPD) using machine learning and behavioral analysis.  
+By analyzing historical performance and behavioral patterns of existing strategies, the goal is to construct a hybrid strategy that achieves high long-term payoff. The proposed strategy is evaluated through multi-round simulations against well-known IPD strategies.
+>>>>>>> origin/uploaded_data_and_model_training
 
 
 ## 📑 Problem Statement(E02)
