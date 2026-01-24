@@ -56,3 +56,6 @@ This dataset enables analysis of how specific behavioral patterns influence long
 - NumPy  
 - Scikit-learn  
 - Matplotlib
+
+## 🖼️ Screenshots
+![](https://github.com/Jayash4075/IPD_Strategy_ML/blob/main/Screenshot%202026-01-24%20084035.png)
